@@ -1,8 +1,7 @@
 import React from 'react';
 import TopNav from "../components/TopNav";
-import {  Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faSearch, faStar, faPlus, faBell, faArrowRight, faPenToSquare, faArrowUpRightFromSquare, faBars, faHandsClapping, faComment, faCircleMinus, faBookmark, faEllipsis } from '@fortawesome/free-solid-svg-icons';
+import { faStar, faHandsClapping, faComment, faCircleMinus, faBookmark, faEllipsis } from '@fortawesome/free-solid-svg-icons';
 
 const articles = [
   {
